@@ -1,0 +1,18 @@
+* PROM 854
+* CoR+CoMP-S setup for this line
+comment-display-start_of_cbk.rcp
+* focus 
+focus-0854.rcp
+comment-logfile-focus-0854.rcp
+* filter
+fw-0854.rcp
+comment-logfile-filter_wheel-0854.rcp
+* t_exp
+exposure-0100ms.rcp
+comment-logfile-exposure-0100.rcp
+* PIs
+move_andor_T_pi_1_position_0854.rcp
+comment-logfile-move_andor_T_pi_1_position_0854.rcp
+move_andor_R_pi_2_position_0854.rcp
+comment-logfile-move_andor_R_pi_2_position_0854.rcp
+comment-display-end_of_cbk.rcp

@@ -1,0 +1,18 @@
+* PROM 637
+* CoR+CoMP-S setup for this line
+comment-display-start_of_cbk.rcp
+* focus 
+focus-0637.rcp
+comment-logfile-focus-0637.rcp
+* filter
+fw-0637.rcp
+comment-logfile-filter_wheel-0637.rcp
+* t_exp
+exposure-1800ms.rcp
+comment-logfile-exposure-1800.rcp
+* PIs
+move_andor_T_pi_1_position_0637.rcp
+comment-logfile-move_andor_T_pi_1_position_0637.rcp
+move_andor_R_pi_2_position_0637.rcp
+comment-logfile-move_andor_R_pi_2_position_0637.rcp
+comment-display-end_of_cbk.rcp

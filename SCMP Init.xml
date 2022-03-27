@@ -1,0 +1,42 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>14.0.1f11</Version>
+<String>
+<Name>Observer</Name>
+<Val>Surname of the observer</Val>
+</String>
+<String>
+<Name>Comment</Name>
+<Val>CoMP-S obs_prog_XXX</Val>
+</String>
+<EW>
+<Name>Light Shapping Diffuser</Name>
+<Choice>Out of Beam</Choice>
+<Choice>In Beam</Choice>
+<Val>1</Val>
+</EW>
+<DBL>
+<Name>Objective Lens Position (mm)</Name>
+<Val>103.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>FOV Rotation (deg)</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Occulter size</Name>
+<Val>28.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal Aperture</Name>
+<Val>196.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Abso Aperture</Name>
+<Val>39.70000000000000</Val>
+</DBL>
+<String>
+<Name>Pointer IP</Name>
+<Val>193.87.1.37</Val>
+</String>
+</LVData>
