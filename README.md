@@ -1,1 +1,1 @@
-# SCMP
+# SCMP: riadiaci softvér pre ďalekohľady
