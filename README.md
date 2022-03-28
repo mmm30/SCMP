@@ -1,3 +1,5 @@
 # SCMP: 
 
-Riadiaci softvér pre [ďalekohľady COMP-S a SCD.](https://github.com/mmm30/SCMP/blob/main/pic/_MG_7831.jpg)
+Riadiaci softvér pre ďalekohľady COMP-S a SCD.
+
+![_MG_7831.jpg](./pic/_MG_7831.jpg)
